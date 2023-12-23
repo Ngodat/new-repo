@@ -7,7 +7,7 @@ const root = ReactDOM.createRoot(container);
 root.render(<MyApp name="Dat"/>);
 
 // const container = document.getElementById('root');
-// const root = ReactDOM.createRoot(container);
-// root.render(<MyApp name="Dat"/>);
+//const root = ReactDOM.createRoot(container);
+ root.render(<MyApp name="Dat"/>);
 // ReactDOM.createRoot(document.getElementById('root')).render((<MyApp name="Dat"/>));
 // ReactDOM.createRoot(document.getElementById('root2')).render((<MyApp name="Lala"/>));
